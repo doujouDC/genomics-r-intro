@@ -507,8 +507,7 @@ Notice in the operation above that R inserts an `NA` value to extend our vector 
 >> A) False - Vectors have both of these properties  
 >> B) True  
 >> C) True  
->> D) False - Vectors have only one mode (e.g. numeric, character); all items in  
->> a vector must be of this mode.
+>> D) False - Vectors have only one mode (e.g. numeric, character); all items in a vector must be of this mode.
 >> E) True  
 >> F) True  
 > {: .solution}
